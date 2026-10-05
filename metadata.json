@@ -1,0 +1,6 @@
+{
+  "name": "IslamiCityPay Digital Voucher Infrastructure",
+  "description": "Infrastruktur platform cerdas manajemen voucher digital IslamiCityPay dengan analitik real-time, enkripsi end-to-end (AES-256/SHA-256), 2FA, Open Banking Syariah API gateway, pelaporan otomatis PDF/Excel, audit log kepatuhan, notifikasi instan, mode gelap, dan multi-bahasa.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
